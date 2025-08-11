@@ -1,4 +1,4 @@
-# README: Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis  
+#  Z-Test vs T-Test - A Practical Guide with NHANCES BMI Data Analysis  
 
 ## Overview  
 This guide provides a comprehensive understanding of Z-Test and T-Test statistical methods using NHANCES BMI data. It includes exploratory data analysis, statistical test applications, and a comparison of the two methods. The focus is on practical implementation and mathematical concepts, making it suitable for academic and research purposes.
