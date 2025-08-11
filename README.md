@@ -90,3 +90,6 @@ This guide provides a comprehensive understanding of Z-Test and T-Test statistic
 
 ## 9. Conclusion  
 This guide provides a structured approach to understanding and implementing Z-Test and T-Test methods. By following the steps outlined, users can confidently analyze data and draw meaningful conclusions.
+
+---
+##  **📂[Statistics and Hypothesis Project List →](https://github.com/DhawaDG/Statistics-and-Hypothesis/blob/main/README.md)** 
